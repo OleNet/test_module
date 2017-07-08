@@ -1,0 +1,3 @@
+[submodule "python-patterns"]
+	path = python-patterns
+	url = git@github.com:OleNet/python-patterns.git
